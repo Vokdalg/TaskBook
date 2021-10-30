@@ -45,7 +45,8 @@ public class Main {
                             }
                         }
                     }
-
+                default:
+                    System.out.println("Некорректный вариант ввода!");
             }
         }
     }
